@@ -15,7 +15,7 @@ cadastrar um item ou um objeto, em uma lista, atualizar um item dessa lista ou a
 
 -A pratica de códigos, instalação de bibliotecas, sua exportação e importação, também foi treinada e aperfeiçoada neste projeto.
 
-#Finalização
+# Finalização
 
 -Depois de toda a implementação do projeto a maior gratificação, é ver ele funcionar. E pessoalmente eu achei incrível o funcionamento de uma API, de como podemos criar algo em nossa maquina e ver esse código, funcionar em um servidor remoto.
 
