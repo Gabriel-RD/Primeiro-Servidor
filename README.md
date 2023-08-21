@@ -3,7 +3,7 @@
 
 -Neste projeto eu realizei a implementação do meu primeiro servidor.
 
--Nesta pratica, tive que organizar, adicionar, remover e atualizar algumas informaçoes, vindas do meu banco de dados e vinda da
+-Nesta pratica, tive que organizar, adicionar, remover e atualizar algumas informaçoes, vindas do meu banco de dados e da
 requisição do usuario.
 
 -Ou sejá foi um exercicio de pratica bem simples onde testei meus conhecimentos basicos de implementação de um servido e novos verbos,
